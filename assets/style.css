@@ -1,0 +1,120 @@
+#circle_div1,
+#circle_div2,
+#circle_div3 {
+    width: 160px;
+    height: 160px;
+    margin-top: 270px;
+}
+
+#circle_div1 {
+    margin-left: 150px;
+    z-index: 1;
+    background-color: #8a5cd9 !important;
+}
+
+#circle_div2 {
+    margin-left: 280px;
+    background-color: #f0974f !important;
+}
+
+#circle_div3 {
+    margin-left: 210px;
+    background-color: #fff !important;
+    z-index: 8888;
+}
+
+a {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+#section2 {
+    background-color: rgb(231, 231, 231);
+}
+
+#section_div {
+    width: 700px;
+}
+
+.money-border {
+    font-weight: bold;
+}
+
+.text_section2 {
+    font-size: 20px;
+}
+
+.text_warning {
+    font-size: 30px;
+}
+
+.italic_text {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#buy_now {
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    background-color: #f0974f !important;
+}
+
+#design {
+    height: 350px;
+    width: 350px;
+}
+
+#top-fifty {
+    margin-left: 180px;
+    width: 130px;
+    height: 130px;
+    text-align: center;
+    margin-top: -60px;
+    background-color: #8a5cd9 !important;
+}
+
+.designText {
+    font-size: 18px;
+}
+
+.price {
+    font-size: 42px;
+    font-weight: bold;
+
+}
+
+#ReadMore {
+    height: 50px;
+    background-color: #fff !important;
+}
+
+.introWeb {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.introText {
+    font-size: 20px;
+}
+
+.mail {
+    border: none;
+    background-color: black;
+    color: grey;
+    border-bottom: 1px solid white;
+}
+
+.getskill {
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.text-dark {
+    color: #fff !important;
+    font-weight: 700;
+}
